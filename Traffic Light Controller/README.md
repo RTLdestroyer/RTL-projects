@@ -1,7 +1,7 @@
 # Traffic Light Controller
 
 ## Overview
-A Traffic Light Controller which has numerous features has been implemented. 
+A Traffic Light Controller in which numerous features has been implemented. 
 
 ## Features
 
