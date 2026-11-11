@@ -19,4 +19,4 @@ B.Tech. in Electronics and Communication Engineering,
 ## Contact
 
 GitHub: ankitsingh22102008-eng
-Email: sing.20265157@mnnit.ac.in
+Email: singh.20265157@mnnit.ac.in
