@@ -1,7 +1,7 @@
 # FIFO
 
 ## Overview
-A RTL design and verification of an asynchronous FIFO.
+RTL design and verification of an asynchronous FIFO.
 
 ## Features
 
